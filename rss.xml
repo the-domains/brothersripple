@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[BrothersRipple]]></title>
         <description><![CDATA[BrothersRipple]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/brothersripple/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 19 Oct 2015 01:12:59 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 19 Oct 2015 01:16:13 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/brothersripple/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Cabinetry]]></title>
+            <description><![CDATA[<article><h1>Cabinetry</h1><p>A cabinet is a box-shaped piece of furniture with doors or drawers for storing miscellaneous items. Some cabinets stand alone while others are built into a wall or are attached to it like a medicine cabinet. Cabinets are typically made of wood or, now increasingly, of synthetic materials.</p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Hughes_Sambin_-_Cabinet_-_Walters_652.jpg/220px-Hughes_Sambin_-_Cabinet_-_Walters_652.jpg"></article>]]></description>
+            <link>https://en.wikipedia.org/wiki/Cabinetry</link>
+            <guid isPermaLink="false">3eee9383-7f6e-4e2e-aea5-f5cb99105135</guid>
+            <pubDate>Mon, 19 Oct 2015 01:14:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Woodworking - Wikipedia, the free encyclopedia]]></title>
             <description><![CDATA[<article><h1>Woodworking - Wikipedia, the free encyclopedia</h1><p>Commonly used woodworking tools included axes, adzes, chisels, pull saws, and bow drills. Mortise and tenon joints are attested from the earliest Predynastic period. These joints were strengthened using pegs, dowels and leather or cord lashings. Animal glue came to be used only in the New Kingdom period.</p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Woodworkdamas.JPG/250px-Woodworkdamas.JPG"></article>]]></description>
