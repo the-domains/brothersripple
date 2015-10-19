@@ -1,4 +1,4 @@
-name: null
+name: BrothersRipple
 favicon: null
 layout_spectrum: 0.09109878935851157
 typography_spectrum: 0.6425502032507211
@@ -15,7 +15,12 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
+  brandColors:
+    - '#687b7c'
+    - '#060808'
+    - '#ffffff'
+    - '#2a2e2e'
+    - '#495758'
   brandStrength: 0.797848759451881
   lightness: 0.013132017571479082
   saturation: 0.5927794387098402
