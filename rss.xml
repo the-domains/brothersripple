@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[BrothersRipple]]></title>
+        <description><![CDATA[BrothersRipple]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 19 Oct 2015 01:12:59 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Woodworking - Wikipedia, the free encyclopedia]]></title>
+            <description><![CDATA[<article><h1>Woodworking - Wikipedia, the free encyclopedia</h1><p>Commonly used woodworking tools included axes, adzes, chisels, pull saws, and bow drills. Mortise and tenon joints are attested from the earliest Predynastic period. These joints were strengthened using pegs, dowels and leather or cord lashings. Animal glue came to be used only in the New Kingdom period.</p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Woodworkdamas.JPG/250px-Woodworkdamas.JPG"></article>]]></description>
+            <link>https://en.wikipedia.org/wiki/Woodworking</link>
+            <guid isPermaLink="false">85963f5e-bc67-4cbc-b2f4-f50ec83c2784</guid>
+            <pubDate>Mon, 19 Oct 2015 01:12:45 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
